@@ -64,7 +64,7 @@ SQLite is initialized automatically by the backend. The `enquiries` table contai
 ## Project Structure
 
 ```text
-FullStack_Chatbot_Task_Mohd_Junaid/
+FullStack_Chatbot_Task_Akash_Kumar/
 ├── backend/
 │   ├── src/
 │   │   ├── config/database.ts
@@ -162,9 +162,9 @@ Example body:
 
 ```json
 {
-  "name": "Mohd Junaid",
-  "email": "junaid@example.com",
-  "phone": "9876543210",
+  "name": "Akash_Kumar",
+  "email": "ak819380ak@gmail.com",
+  "phone": "8193807641",
   "service": "Drone Filming",
   "message": "I need information about drone filming."
 }
@@ -177,7 +177,7 @@ Example body:
 Search:
 
 ```text
-/api/enquiries?search=Junaid
+/api/enquiries?search=Akash
 ```
 
 Status filter:
@@ -268,7 +268,7 @@ Use `.env.example` for environment variable documentation.
 Recommended repository name:
 
 ```text
-FullStack_Chatbot_Task_Mohd_Junaid
+FullStack_Chatbot_Task_Akash_Kumar
 ```
 
 Upload the frontend source, backend source, package files, configuration files and this README.
@@ -276,7 +276,7 @@ Upload the frontend source, backend source, package files, configuration files a
 ## Google Drive Submission Structure
 
 ```text
-FullStack_Chatbot_Task_Mohd_Junaid/
+FullStack_Chatbot_Task_Akash_Kumar/
 ├── 01_Source_Code/
 ├── 02_Screenshots/
 ├── 03_API_Documentation/
